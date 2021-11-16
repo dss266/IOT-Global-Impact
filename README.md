@@ -31,5 +31,6 @@
 
    ![Passo a passo -2](https://user-images.githubusercontent.com/61297084/141893390-ca6e41da-7805-4358-82a7-9fb29345ce3c.png)
 
-   ![image](https://user-images.githubusercontent.com/61297084/141899380-6db779a5-05c8-4008-b4b0-f59ac324ed6b.png)
+   ![image](https://user-images.githubusercontent.com/61297084/141899952-a748929c-20f8-4783-995d-4f52fb1a7407.png)
+
 
