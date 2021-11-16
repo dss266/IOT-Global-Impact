@@ -22,6 +22,20 @@
    ![image](https://user-images.githubusercontent.com/61297084/141896406-2f211dbe-1aee-48a8-a9ae-467e139a330f.png)
    ##### Clique em abrir que o notebook será carregado.
    ![image](https://user-images.githubusercontent.com/61297084/141897443-d40e680d-7773-4477-b9cc-2bdae8887daf.png)
+    
+    
+   #### Upload no JUPYTER:
+   
+   ##### Clique em "File" e logo em seguida em "Open".
+   ![image](https://user-images.githubusercontent.com/61297084/142077261-1bd0cdf6-9381-45c8-9434-86e176e765fb.png)
+   ##### Ao ser redirecionado para outra aba clique em "Upload".
+   ![image](https://user-images.githubusercontent.com/61297084/142077511-023c6381-d7e4-4428-87f6-93190c9c53c5.png)
+   ##### Selecione o notebook e clique em "Abrir".
+   ![image](https://user-images.githubusercontent.com/61297084/142077691-3301303c-db88-4e0d-929b-eaba7d55f46d.png)
+   ##### Clique sobre o notebook e ele será aberto em outra aba.
+   ![image](https://user-images.githubusercontent.com/61297084/142077929-02444543-773f-4055-83d9-512263a01ddb.png)
+
+    
 
 
 ### 4º FAÇA O UPLOAD DO DATASET PARA A PLATAFORMA.
@@ -36,5 +50,17 @@
 
    ##### Cole o caminho do arquivo neste método.
    ![image](https://user-images.githubusercontent.com/61297084/142076241-466f2b80-1d3a-4408-9cf0-99ed304fcbe8.png)
+   
+   #### TUTORIAL JUPYTER
+   
+   ##### Clique em "File" e logo em seguida em "Open".
+   ![image](https://user-images.githubusercontent.com/61297084/142077261-1bd0cdf6-9381-45c8-9434-86e176e765fb.png)
+   ##### Ao ser redirecionado para outra aba clique em "Upload".
+   ![image](https://user-images.githubusercontent.com/61297084/142077511-023c6381-d7e4-4428-87f6-93190c9c53c5.png)
+   ##### Selecione o dataset e clique em "Abrir".
+   ![image](https://user-images.githubusercontent.com/61297084/142078533-cbce6830-190f-4119-8112-4377b1664012.png)
+   ##### Copie o nome do arquivo e cole no método.
+   ![image](https://user-images.githubusercontent.com/61297084/142079074-08720e3f-5e0f-475e-809a-cbe036835497.png)
 
+   
 ### 5º EXECUTE OS BLOCOS.
