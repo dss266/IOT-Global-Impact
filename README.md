@@ -25,7 +25,7 @@
 
 
 ### 4º FAÇA O UPLOAD DO DATASET PARA A PLATAFORMA
-   ####Tutorial google colab
+   #### Tutorial google colab
    
    ![Passo a passo](https://user-images.githubusercontent.com/61297084/141892565-f4437492-3d5b-4c76-b164-6045a8a0b63e.png)
 
