@@ -24,8 +24,8 @@
    ![image](https://user-images.githubusercontent.com/61297084/141897443-d40e680d-7773-4477-b9cc-2bdae8887daf.png)
 
 
-### 4º FAÇA O UPLOAD DO DATASET PARA A PLATAFORMA
-   #### Tutorial google colab
+### 4º FAÇA O UPLOAD DO DATASET PARA A PLATAFORMA.
+   #### Tutorial GOOGLE COLAB:
    
    ![Passo a passo](https://user-images.githubusercontent.com/61297084/141892565-f4437492-3d5b-4c76-b164-6045a8a0b63e.png)
 
@@ -37,4 +37,4 @@
    ##### Cole o caminho do arquivo neste método.
    ![image](https://user-images.githubusercontent.com/61297084/142076241-466f2b80-1d3a-4408-9cf0-99ed304fcbe8.png)
 
-
+### 5º EXECUTE OS BLOCOS.
