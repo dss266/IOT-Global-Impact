@@ -7,7 +7,7 @@
 ### Pablo André Nunes de Oliveira RM86328
 ### Ruan Barros Araújo RM84584
 
-# LINK PARA O VIDEO: 
+# LINK PARA O VIDEO: https://youtu.be/Oh_CIrZlYUI
 
 # INSTRUÇOES:
 
